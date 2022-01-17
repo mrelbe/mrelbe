@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrelbe
 - 👀 I’m interested in Python and C#
-- 🌱 I’m currently learning ... nothing
+- 🌱 I’m currently learning ASP.Net Core architecture
 - 💞️ I’m looking to collaborate on ... nothing, yet
 - 📫 How to reach me ...
 
